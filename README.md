@@ -1,2 +1,2 @@
 # SMBC
-SMBC
+Business Configuration Maintenance Objects
